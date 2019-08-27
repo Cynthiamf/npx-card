@@ -1,0 +1,36 @@
+{
+  "name": "@cynthiamf/npx-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cynthiamf/npx-card.git"
+  },
+  "author": "Cynthia M.",
+  "license": "ISC",
+  "bin": {
+    "cynthia": "./card.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Cynthiamf/npx-card/issues"
+  },
+  "homepage": "https://github.com/Cynthiamf/npx-card#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "cli-boxes": "^2.2.0",
+    "figlet": "^1.2.3",
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "ink": "^2.3.0",
+    "ink-box": "^1.0.0",
+    "ink-gradient": "^1.0.0",
+    "ora": "^3.4.0",
+    "path": "^0.12.7"
+  }
+}
