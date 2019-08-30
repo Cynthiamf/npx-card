@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Npx V-Card 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.2.4-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.2.5-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Cynthiamf/npx-card#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
@@ -13,6 +13,7 @@
 </p>
 
 <<<<<<< HEAD
+
 > V-card
 
 ### 🏠 [Homepage](https://www.npmjs.com/package/cynthiamf)
@@ -39,7 +40,7 @@ npm run test
 
 👤 **Cynthia M.**
 
-* Github: [@Cynthiamf](https://github.com/Cynthiamf)
+- Github: [@Cynthiamf](https://github.com/Cynthiamf)
 
 ## 🤝 Contributing
 
@@ -54,11 +55,13 @@ Give a ⭐️ if this project helped you!
 Copyright © 2019 [Cynthia M.](https://github.com/Cynthiamf).<br />
 This project is [ISC](https://github.com/Cynthiamf/npx-card/blob/master/LICENSE) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
-=======
-To see my v-card : 
+---
+
+# _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+To see my v-card :
 _in terminal_ `npx cynthiamf`
 
 ##### Npm : https://www.npmjs.com/package/cynthiamf
->>>>>>> 2ec8d2e0606cfa19e49c24b3a265ac15e650a61a
+
+> > > > > > > 2ec8d2e0606cfa19e49c24b3a265ac15e650a61a
