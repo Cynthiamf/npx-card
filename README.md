@@ -12,6 +12,7 @@
   </a>
 </p>
 
+<<<<<<< HEAD
 > V-card
 
 ### 🏠 [Homepage](https://www.npmjs.com/package/cynthiamf)
@@ -55,3 +56,9 @@ This project is [ISC](https://github.com/Cynthiamf/npx-card/blob/master/LICENSE)
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+=======
+To see my v-card : 
+_in terminal_ `npx cynthiamf`
+
+##### Npm : https://www.npmjs.com/package/cynthiamf
+>>>>>>> 2ec8d2e0606cfa19e49c24b3a265ac15e650a61a
