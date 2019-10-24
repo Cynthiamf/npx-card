@@ -77,7 +77,7 @@ inquirer
   .then(answers => {
     if (answers.qrcode === "Yes") {
       const qr = QRCode.generate(
-        "https://www.slideshare.net/slideshow/embed_code/key/zHhVqzqw6eJmwN",
+        "https://www.slideshare.net/slideshow/embed_code/key/dzdZ8i55qbn49C",
         {
           small: true
         },
